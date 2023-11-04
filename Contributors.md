@@ -80,6 +80,7 @@
 - [Shahid Adnan Wali](https://github.com/walishahidadnan)
 - [aojiaosaiban](https://github.com/aojiaosaiban)
 - [Dez Blair](https://github.com/dezdoesit)
+- [Amarthya](https://github.com/aparvathareddy282)
 - [Ritish Srivastava](https://github.com/Ritish134)
 - [Om Lokhande](https://github.com/Nincompup)
 - [Shashwat Verma](https://github.com/shasvt07)
